@@ -1,0 +1,4 @@
+interface:
+  display_name: "Godot Game Dev"
+  short_description: "Official Godot docs for game dev"
+  default_prompt: "Use the Godot game development skill to answer or implement Godot/GDScript/scene/shader tasks with official docs as the primary source."
