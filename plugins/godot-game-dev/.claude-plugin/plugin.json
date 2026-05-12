@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "godot-game-dev",
+  "description": "Official Godot docs-backed game development knowledge skill for Claude Code.",
+  "version": "0.1.0",
+  "author": {
+    "name": "JupiterTheWarlock"
+  },
+  "homepage": "https://github.com/JupiterTheWarlock/godot-game-dev-skill",
+  "repository": "https://github.com/JupiterTheWarlock/godot-game-dev-skill",
+  "license": "MIT",
+  "keywords": ["godot", "gdscript", "game-dev", "docs", "skill"]
+}

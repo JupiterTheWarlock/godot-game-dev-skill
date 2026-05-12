@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "jthewl-godot-skills",
+  "description": "Godot game development knowledge plugins for Claude Code.",
+  "version": "1.0.0",
+  "owner": {
+    "name": "JupiterTheWarlock"
+  },
+  "plugins": [
+    {
+      "name": "godot-game-dev",
+      "source": "./plugins/godot-game-dev",
+      "description": "Official Godot docs-backed game development knowledge skill for Claude Code.",
+      "version": "0.1.0",
+      "author": {
+        "name": "JupiterTheWarlock"
+      },
+      "homepage": "https://github.com/JupiterTheWarlock/godot-game-dev-skill",
+      "repository": "https://github.com/JupiterTheWarlock/godot-game-dev-skill",
+      "license": "MIT",
+      "category": "Development",
+      "tags": ["godot", "gdscript", "game-dev", "docs", "skill"]
+    }
+  ]
+}
